@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donkersg
 - 👀 I’m interested in 3D printig and sat receivers
-- 🌱 I’m currently learning modifying 3D delta printer Micromake D1
+- 🌱 I’m currently learning modifying 3D delta printer Micromake D1 and FLsun Q5
 
 - 📫 How to reach me jvdx@hccnet.nl.
 
